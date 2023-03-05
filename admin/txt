@@ -1,0 +1,2 @@
+แยก super admin ออกจาก admin ไม่สามารถลบ super admin ได้ 
+ให้มี super admin หลัก 1 คน ไม่สามารถแก้ไขค่าให้เป็น admin ธรรมดาได้
